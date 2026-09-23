@@ -1,7 +1,6 @@
 ---
-title: "Formação de equipe — 23/09/2026"
+title: "Diario de Bordo 1 - 23/09"
 authors: "Gabriel Di Angellis Basilio Ferreira"
-tags: [formacao-equipe]
 date: 2026-09-23
 ---
 
