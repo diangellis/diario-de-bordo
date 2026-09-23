@@ -4,6 +4,7 @@
 - [Avaliação na disciplina](docs/avaliacao.md)
 - [GitHub Pages no projeto da disciplina](docs/github-pages.md)
 - Minhas entradas
+  - [Formação de equipe — 23/09/2026](blog/2026-09-23-formacao-de-equipe.md)
   - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
 
 <!--
