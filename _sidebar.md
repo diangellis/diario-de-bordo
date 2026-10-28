@@ -6,6 +6,7 @@
 - Minhas entradas
   - [Diario de Bordo 1 - 23/09](blog/2026-09-23-formacao-de-equipe.md)
   - [Diario de Bordo 2 - 07/10](blog/2026-10-07-diario-de-bordo-2.md)
+  - [Diario de Bordo 3 - 28/10](blog/2026-10-28-diario-de-bordo-3.md)
   - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
 
 <!--
